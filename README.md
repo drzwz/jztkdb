@@ -3,7 +3,7 @@ call kdb+/q from JZT formulas
 
 ## jztkdb功能
 
-  实现金字塔(JZT)软件(http://www.weistock.com)的dll公式，可以将jzt数据传到kdb计算并返回计算结果，可以实现复杂的计算。
+  实现金字塔(JZT)软件(<http://www.weistock.com>)的dll公式，可以将jzt数据传到kdb计算并返回计算结果，可以实现复杂的计算。
 
 ## 使用方法
 
